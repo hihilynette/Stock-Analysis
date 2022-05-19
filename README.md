@@ -250,6 +250,14 @@ And below are the updated results after running the edited code
 
 We can tell that now it only uses one fourth of the original length, which highly improves the efficiency.
 
+As for the stock performance between 2017 and 2018, 
+
+![2017stock](https://github.com/hihilynette/Stock-Analysis/blob/main/Resources/results%20year%202017.PNG)
+
+![2018stock](https://github.com/hihilynette/Stock-Analysis/blob/main/Resources/results%20year%202018.PNG)
+
+We can tell that 2017's stocks outperformed 2018, with only 1 stock "TERP" has a negative return.
+
 ## Summary
 
 ##### What are the advantages or disadvantages of refactoring code?
